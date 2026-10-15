@@ -152,6 +152,10 @@ impl Editor {
                     "{67DEE444-3D04-4258-B92A-BC1F0FF2CAE4}_is1",
                     // ARM64 version of VSCodium (user)
                     "{57FD70A5-1B8D-4875-9F40-C5553F094828}_is1",
+                    // 32-bit version of VSCodium (system)
+                    "{763CBF88-25C6-4B10-952F-326AE657F16B}_is1",
+                    // 32-bit version of VSCodium (user)
+                    "{0FD05EB4-651E-4E78-A062-515204B47A3A}_is1",
                 ]
             }
             Editor::Cursor => &["62625861-8486-5be9-9e46-1da50df5f8ff"],
